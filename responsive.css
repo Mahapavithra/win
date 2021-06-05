@@ -1,0 +1,256 @@
+@media screen and (min-width: 0px) and (max-width: 575px){
+    .banner{
+        width: 120%;
+        height: 100vh;
+    }
+    .arrow{
+        margin-left: 4%;
+    }
+    .logo{
+        height: 60px;
+        width: 90px;
+        margin-top: 14px;
+    }
+    .cart{
+        height: 60px;
+        width: 70px;
+    }
+    .navbar nav{
+        flex: 1;
+        padding-left: 30px;
+    }
+    .navbar ul li{
+        margin: 0px 10px;
+    }
+    .navbar nav ul li a{
+        font-size: 7px;
+        font-weight: bold;
+        padding: 0px 1px;
+    }
+    .content h1{
+        font-size: 20px;
+    }
+    .content p{
+        font-size: 10px;
+    }
+    .content{
+        margin-top: 10%;
+        margin-left: 0%;
+    }
+    .winter{
+        height: 270px;
+        margin-top: -40%;
+        width: 200px;
+        margin-left: 58%;
+    }
+    .social{
+        left: -110px;
+        bottom: 15%;
+    }
+    .social a{
+        margin-bottom: 0;
+        font-size: 12px;
+        padding: 0px 10px;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 761px){
+    .banner{
+        width: 100%;
+        height: 110vh;
+    }
+    .logo{
+        height: 60px;
+        width: 100px;
+        margin-top: 14px;
+    }
+    .cart{
+        height: 60px;
+        width: 70px;
+    }
+    .navbar nav{
+        flex: 1;
+        padding-left: 40px;
+    }
+    .navbar nav ul li a{
+        font-size: 13px;
+        padding: 0px 3px;
+    }
+    .content h1{
+        font-size: 36px;
+    }
+    .content p{
+        font-size: 13px;
+    }
+    .content{
+        margin-top: 17%;
+        margin-left: 8%;
+    }
+    .winter{
+        margin-top: -38.8%;
+        height: 280px;
+        width: 220px;
+        margin-left: 53%;
+    }
+    .social{
+        left: -120px;
+        bottom: 32%;
+    }
+    .social a{
+        font-size: 10px;
+    }
+    .navbar nav ul li{
+        margin: 0 10px;
+    }
+}
+@media screen and (min-width: 762px) and (max-width: 991px){
+    .banner{
+        height: 130vh;
+        width: 110%;
+    }
+    .logo{
+        height: 40px;
+        width: 80px;
+        margin-top: 12px;
+    }
+    .cart{
+        height: 40px;
+        width: 80px;
+        margin-top: 12px;
+    }
+    .navbar nav{
+        flex: 1;
+        padding-left: 20px;
+        margin-top: 12px;
+    }
+    .navbar nav ul li a{
+        font-size: 17px;
+        padding: 0px 2px;
+    }
+    .content h1{
+        font-size: 44px;
+    }
+    .content p{
+        font-size: 18px;
+    }
+    .content{
+        margin-top: 10%;
+        margin-left: 13%;
+    }
+    .winter{
+        margin-top: -31.8%;
+        height: 300px;
+        width: 220px;
+        margin-left: 59%;
+    }
+    .social{
+        left: -100px;
+        bottom: 20%;
+    }
+    .social a{
+        font-size: 12px;
+    }
+    .navbar nav ul li{
+        margin: 0 30px;
+    }
+    .social a{
+        padding: 0px 10px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px){
+    .banner{
+        height: 100vh;
+    }
+    .logo{
+        height: 70px;
+        width: 120px;
+        margin-top: 10px;
+    }
+    .cart{
+        height: 80px;
+        width: 90px;
+        margin-top: 10px;
+    }
+    .navbar nav{
+        flex: 1;
+        padding-left: 80px;
+    }
+    .navbar nav ul li{
+        margin: 0 35px;
+    }
+    .navbar nav ul li a{
+        font-size: 22px;
+        padding: 0px 10px;
+    }
+    .content h1{
+        font-size: 50px;
+    }
+    .content p{
+        font-size: 24px;
+    }
+    .content{
+        margin-top: 10%;
+        margin-left: 14%;
+    }
+    .winter{
+        margin-top: -32.3%;
+        height: 450px;
+        margin-left: 59%;
+    }
+    .social{
+        left: -120px;
+        bottom: 41%;
+    }
+    .social a{
+        font-size: 17px;
+    }
+   
+}
+@media screen and (min-width: 1200px) and (max-width: 1400px){
+    .banner{
+        height: 100vh;
+    }
+    .logo{
+        height: 70px;
+        width: 120px;
+        margin-top: 10px;
+    }
+    .cart{
+        height: 80px;
+        width: 90px;
+        margin-top: 10px;
+    }
+    .navbar nav{
+        flex: 1;
+        padding-left: 80px;
+    }
+    .navbar nav ul li{
+        margin: 0 45px;
+    }
+    .navbar nav ul li a{
+        font-size: 27px;
+        padding: 0px 10px;
+    }
+    .content h1{
+        font-size: 54px;
+    }
+    .content p{
+        font-size: 27px;
+    }
+    .content{
+        margin-top: 10%;
+        margin-left: 14%;
+    }
+    .winter{
+        margin-top: -30.3%;
+        height: 480px;
+        margin-left: 59%;
+    }
+    .social{
+        left: -140px;
+        bottom: 41%;
+    }
+    .social a{
+        font-size: 20px;
+    }
+}
